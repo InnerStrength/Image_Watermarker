@@ -1,0 +1,2 @@
+# Image_Watermarker
+Simple Software that allows you to open any amount of image files, any amount of watermarks (up to 4), place the watermarks in different corners of the image, and select a folder for the saved images to go into.  The idea is that most watermarking software only allows one watermark, or you have to reupload the first round watermarked images into whatever software you use to then select a new corner to put a different watermark in. It's all very tedious, until now!
